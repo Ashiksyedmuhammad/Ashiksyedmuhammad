@@ -28,7 +28,8 @@ JavaScript  •  TypeScript  •  React.js  •  Redux  •  Tailwind CSS  •  
 
 ### Backend Development
 ```
-Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication  • Socket  • Firebase
+Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication  • Bun
+• Socket • Firebase
 ```
 
 ### DevOps & Cloud
