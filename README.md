@@ -1,44 +1,111 @@
-# 👋 Hi, I'm Ashik
+# Hi there, I'm Ashik 👋
 
-Full-Stack Developer passionate about building scalable web applications and creating exceptional user experiences.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashiknlpy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-website.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiknlpy@gmail.com)
 
-## 💻 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![nginx](https://img.shields.io/badge/-nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-
-## 🚀 What I Do
-
-- Develop full-stack web applications using the MERN stack
-- Create responsive and intuitive user interfaces
-- Design and implement RESTful APIs
-- Set up and manage server infrastructure using nginx
-- Integrate payment solutions with Razorpay
-- Design user-friendly interfaces using Figma
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Ashiksyedmuhammad=Ashiksyedmuhammad&show_icons=true&theme=dark)
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashiknlpy/)
-- 🌐 [Portfolio](https://your-portfolio-website.com)
-- 📧 Email: ashiknlpy.com
+> Full-Stack Developer crafting scalable web applications with modern technologies and exceptional user experiences
 
 ---
 
-💡 Always learning, always growing. Open to collaborating on interesting projects!
+## 🧑‍💻 About Me
+
+I'm a passionate Full-Stack Developer specializing in the MERN stack, with a strong focus on building performant, user-centric applications. I enjoy transforming complex problems into elegant solutions and continuously learning new technologies to stay at the forefront of web development.
+
+- 🔭 Currently working on scalable full-stack applications
+- 🌱 Exploring cloud architecture and microservices
+- 💡 Open to collaborating on innovative open-source projects
+- 📍 Based in Kozhikode, Kerala, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+```
+JavaScript  •  TypeScript  •  React.js  •  Redux  •  Tailwind CSS  •  HTML5  •  CSS3
+```
+
+### Backend Development
+```
+Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication  • Socket  • Firebase
+```
+
+### DevOps & Cloud
+```
+AWS (EC2, S3)  •  Nginx  •  Git  •  GitHub Actions  •  Linux
+```
+
+### Payment Integration & Design
+```
+Razorpay  •  Stripe  •  PayPal  •  Figma  •  UI/UX Design
+```
+### Tools
+```
+VsCode    •  Postman •  Cursor  •  CodePlanner 
+```
+---
+
+## 💼 What I Bring to the Table
+
+**🎯 Full-Stack Development**
+- Building end-to-end web applications using the MERN stack
+- Implementing scalable architecture and best practices
+- Writing clean, maintainable, and well-documented code
+
+**🎨 Frontend Excellence**
+- Creating responsive, accessible, and performant user interfaces
+- State management with Redux for complex applications
+- Mobile-first design approach with Tailwind CSS
+
+**⚙️ Backend Architecture**
+- Designing and implementing RESTful APIs
+- Database modeling and optimization with MongoDB
+- Secure authentication and authorization systems
+
+**☁️ Deployment & Scaling**
+- Deploying applications on AWS infrastructure
+- Server configuration and optimization with Nginx 
+
+**💳 Payment Solutions**
+- Seamless integration of payment gateways (Razorpay, Stripe, PayPal)
+- Secure transaction handling and webhook management
+
+**🎨 Design & Prototyping**
+- UI/UX design and prototyping with Figma
+- Translating designs into pixel-perfect implementations
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashiksyedmuhammad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiksyedmuhammad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiksyedmuhammad&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in hearing about new projects and opportunities. Whether you want to collaborate on a project, need technical advice, or just want to chat about technology, feel free to reach out!
+
+**📧 Email:** [ashiknlpy@gmail.com](mailto:ashiknlpy@gmail.com)  
+**💼 LinkedIn:** [linkedin.com/in/ashiknlpy](https://www.linkedin.com/in/ashiknlpy/)  
+**🌐 Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashiksyedmuhammad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  
+  **💡 "Code is like humor. When you have to explain it, it's bad." — Cory House**
+  
+</div>
