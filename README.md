@@ -28,8 +28,7 @@ JavaScript  •  TypeScript  •  React.js  •  Redux  •  Tailwind CSS  •  
 
 ### Backend Development
 ```
-Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication  • Bun
-• Socket • Firebase
+Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication  • Bun  • Socket   • Firebase
 ```
 
 ### DevOps & Cloud
@@ -97,7 +96,7 @@ I'm always interested in hearing about new projects and opportunities. Whether y
 
 **📧 Email:** [ashiknlpy@gmail.com](mailto:ashiknlpy@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/ashiknlpy](https://www.linkedin.com/in/ashiknlpy/)  
-**🌐 Portfolio:** [your-portfolio-website.com](https://your-portfolio-website.com)
+**🌐 Portfolio:** [your-portfolio-website.com](https://ashiq.is-a.dev)
 
 ---
 
