@@ -15,7 +15,7 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack, with a str
 - 🔭 Currently working on scalable full-stack applications
 - 🌱 Exploring cloud architecture and microservices
 - 💡 Open to collaborating on innovative open-source projects
-- 📍 Based in Kozhikode, Kerala, India
+- 📍 Based in Kochi, Kerala, India
 
 ---
 
