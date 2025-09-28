@@ -12,7 +12,7 @@
 
 I'm a passionate Full-Stack Developer specializing in the MERN stack, with a strong focus on building performant, user-centric applications. I enjoy transforming complex problems into elegant solutions and continuously learning new technologies to stay at the forefront of web development.
 
-- 🔭 Currently working on scalable full-stack applications
+- 🔭 Currently working on scalable full-stack applications & exploring workflow automation with n8n 
 - 🌱 Exploring cloud architecture and microservices
 - 💡 Open to collaborating on innovative open-source projects
 - 📍 Based in Kochi, Kerala, India
@@ -42,7 +42,7 @@ Razorpay  •  Stripe  •  PayPal  •  Figma  •  UI/UX Design
 ```
 ### Tools
 ```
-VsCode    •  Postman •  Cursor  •  CodePlanner 
+VsCode    •  Postman •  Cursor  •  CodePlanner  •  n8n
 ```
 ---
 
