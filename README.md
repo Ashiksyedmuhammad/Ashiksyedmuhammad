@@ -23,12 +23,12 @@ I'm a passionate Full-Stack Developer specializing in the MERN stack, with a str
 
 ### Frontend Development
 ```
-JavaScript  •  TypeScript  •  React.js  •  Redux  •  Tailwind CSS  •  HTML5  •  CSS3
+JavaScript  •  TypeScript  •  React.js  •  Next.js •  Redux  •  Tailwind CSS  •  HTML5  •  CSS3
 ```
 
 ### Backend Development
 ```
-Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication  • Bun  • Socket   • Firebase  •  PostgreSQL
+Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  JWT Authentication   • Socket   • Firebase  •  PostgreSQL
 ```
 
 ### DevOps & Cloud
@@ -38,11 +38,11 @@ AWS (EC2, S3)  •  Nginx  •  Git  •  GitHub Actions  •  Linux
 
 ### Payment Integration & Design
 ```
-Razorpay  •  Stripe  •  PayPal  •  Figma  •  UI/UX Design
+Razorpay  •  Stripe  •  PayPal  •  Figma  •  
 ```
 ### Tools
 ```
-VsCode    •  Postman •  Cursor  •  CodePlanner  •  n8n
+VsCode    •  Postman •  Cursor  •  CodePlanner   •  ChatGPT  •Claude 
 ```
 ---
 
