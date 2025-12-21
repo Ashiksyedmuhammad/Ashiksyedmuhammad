@@ -1,4 +1,4 @@
-# Ashik 
+# Ashiq
 
 **Full-Stack Developer** | MERN Stack 
 
